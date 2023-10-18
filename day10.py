@@ -38,3 +38,5 @@ while True:
     elif pilihan == 5:
         print("Terima kasih Telah menggunakan Program ARITMATIKA kami")
         break
+    else:
+        print("Opsi yang anda pilih tidak ada. Coba lagi")
